@@ -10,8 +10,8 @@ Collaboration. Complex application
 
 <h2> Objectives with points </h2>
 - Work on this project in a team of 2-4 `(2 pt)`
-  - Divide tasks and describe them in readme (for each task indicate who is responsible for it) `(1 pt)`
-  - Use `pull requests` in order to merge your code `(2 pt)`
+    Divide tasks and describe them in readme (for each task indicate who is responsible for it) `(1 pt)`
+    Use `pull requests` in order to merge your code `(2 pt)`
 - Make it useful (you may be asked (by me) to evaluate the usefulness of your application idea) `(0-3 pt)`
 - First create a sketch, then work on code `(1 pt)` _(commit sketches early)_
 
