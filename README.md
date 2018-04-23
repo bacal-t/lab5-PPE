@@ -2,19 +2,22 @@
 <h2>Title:</h2>
 Collaboration. Complex application
 
-<h2> Mandatory Objectives </h2>
-- Create an application which has:
-    Child windows controls and
-    GDI animation
-- Animation should be controlled by controls
+## Contents
+* Collaboration
+* All previously studied things
 
-<h2> Objectives with points </h2>
-- Work on this project in a team of 2-4 `(2 pt)`
-    Divide tasks and describe them in readme (for each task indicate who is responsible for it) `(1 pt)`
-    Use `pull requests` in order to merge your code `(2 pt)`
-- Make it useful (you may be asked (by me) to evaluate the usefulness of your application idea) `(0-3 pt)`
-- First create a sketch, then work on code `(1 pt)` _(commit sketches early)_
+## Mandatory Objectives
+* Create an application which has:
+  * Child windows controls
+  * GDI animation
+* Animation should be controlled by controls
 
+## Objectives With Points
+* Work on this project in a team of 2-4 `(2 pt)`
+  * Divide tasks and describe them in readme (for each task indicate who is responsible for it) `(1 pt)`
+  * Use `pull requests` in order to merge your code `(2 pt)`
+* Make it useful (you may be asked (by me) to evaluate the usefulness of your application idea) `(0-3 pt)`
+* First create a sketch, then work on code `(1 pt)` _(commit sketches early)_
 
 <h2> Screenshot: </h2>
 
